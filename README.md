@@ -1,4 +1,4 @@
-*********Shell Script to Install Lampp v5.6 on Debian****************
+*********Shell Script to Install Lampp v5.6 on Debian*********
 
 Steps are as follows:-
 
